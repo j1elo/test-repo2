@@ -1,3 +1,3 @@
 # test-repo2
 
-This master `branch`
+This is branch `branch2`
